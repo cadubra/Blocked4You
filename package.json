@@ -6,7 +6,6 @@
   "packageType": "mods",
   "websiteURL": "https://www.youtube.com/tv",
   "main": "tizen-5.5-plus/dist/userScript.js",
-  "evaluateScriptOnDocumentStart": true,
   "keys": [
     "MediaPlayPause",
     "MediaPlay",
