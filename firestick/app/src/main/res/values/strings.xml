@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Blocked4You</string>
+    <string name="search_hint">Buscar no YouTube</string>
+    <string name="search_tip">Use a busca acima para encontrar vídeos</string>
+    <string name="no_results">Nenhum vídeo encontrado</string>
+    <string name="loading">Carregando…</string>
+    <string name="error">Erro: %1$s</string>
+
+    <string name="login_title">Entrar com sua conta do YouTube</string>
+    <string name="login_step1">1. No celular ou computador, acesse:</string>
+    <string name="login_step2">2. Digite o código:</string>
+    <string name="login_waiting">Aguardando a confirmação… (use uma conta secundária)</string>
+    <string name="login_button">Entrar</string>
+    <string name="account">Conta</string>
+    <string name="logout">Sair da conta</string>
+    <string name="logout_confirm">Sair da conta %1$s?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="row_subscriptions">Inscrições</string>
+    <string name="row_history">Histórico</string>
+    <string name="row_liked">Vídeos curtidos</string>
+    <string name="row_watch_later">Assistir mais tarde</string>
+
+    <string name="queue_position">%1$d de %2$d: %3$s</string>
+    <string name="audio_title">Áudio</string>
+    <string name="audio_button">Áudio: %1$s</string>
+    <string name="audio_original">%1$s (original)</string>
+
+    <string name="quality_title">Qualidade</string>
+    <string name="quality_auto">Automática</string>
+    <string name="quality_button_auto">Qualidade: Automática (%1$dp)</string>
+    <string name="quality_button_fixed">Qualidade: %1$dp</string>
+    <string name="skipped">%1$s pulado</string>
+    <string name="category_sponsor">Patrocínio</string>
+    <string name="category_selfpromo">Autopromoção</string>
+    <string name="category_interaction">Pedido de inscrição</string>
+    <string name="category_other">Trecho</string>
+
+    <string name="nav_home">Início</string>
+    <string name="nav_section_you">Você</string>
+    <string name="nav_section_explore">Explorar</string>
+    <string name="nav_subscriptions">Inscrições</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_watch_later">Assistir mais tarde</string>
+    <string name="nav_liked">Vídeos com \"Gostei\"</string>
+    <string name="nav_music">Música</string>
+    <string name="nav_movies">Filmes</string>
+    <string name="nav_live">Ao vivo</string>
+    <string name="nav_gaming">Jogos</string>
+    <string name="nav_news">Notícias</string>
+    <string name="nav_sports">Esportes</string>
+    <string name="nav_learning">Cursos</string>
+    <string name="theme_empty">Nada para mostrar neste tema agora</string>
+
+    <string name="row_music">Música em alta</string>
+    <string name="row_gaming">Games em alta</string>
+    <string name="row_movies">Trailers de filmes e séries</string>
+    <string name="row_live">Ao vivo agora</string>
+    <string name="row_podcasts">Podcasts em alta</string>
+    <string name="row_shorts">Shorts</string>
+
+    <string name="tab_videos">Vídeos (%1$d)</string>
+    <string name="tab_shorts">Shorts (%1$d)</string>
+</resources>

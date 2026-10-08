@@ -1,0 +1,24 @@
+{
+  "name": "blocked4you",
+  "appName": "Blocked4You",
+  "version": "0.1.0",
+  "description": "YouTube sem anúncios na TV Samsung: bloqueio de anúncios, SponsorBlock e áudio em português por padrão.",
+  "packageType": "mods",
+  "websiteURL": "https://www.youtube.com/tv",
+  "main": "tizen-5.5-plus/dist/userScript.js",
+  "evaluateScriptOnDocumentStart": true,
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "scripts": {
+    "test": "node tizen-5.5-plus/test/adblock.test.js"
+  },
+  "license": "MIT"
+}

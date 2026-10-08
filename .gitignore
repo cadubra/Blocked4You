@@ -1,0 +1,10 @@
+# Android / Gradle (firestick)
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+
+# Node (tizen)
+node_modules/
